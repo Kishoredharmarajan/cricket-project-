@@ -1,0 +1,54 @@
+.team{
+
+    background-color: black;
+    color: aliceblue ;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.csk{
+
+    width: 100px;
+    height: 100px;
+    display: fle ;
+
+}
+
+.csk:hover{
+
+    cursor: pointer;
+    
+
+
+}
+
+.rcb{
+
+    margin-left: 250px;
+}
+
+
+img{
+
+    height: 150px;
+    width: 150px;
+    border: 3px solid black;
+    border-radius: 30px 0px 30px 0px;
+}
+
+.teams{
+
+    display: flex;
+    border: 10px solid black;
+    padding: 20px;
+
+}
+
+body{
+
+    background-image: url(4650728.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
